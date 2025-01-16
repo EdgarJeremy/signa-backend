@@ -1,1 +1,1 @@
-provider = ['...', 'python27']
+providers = ['...', 'python27']
