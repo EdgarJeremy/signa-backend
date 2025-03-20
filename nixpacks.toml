@@ -1,0 +1,13 @@
+providers = ['...', 'python']
+
+
+[phases.setup]
+# nixPkgs = ['nodejs_16', 'yarn-1_x']
+nixLibs = ["...", "gcc-unwrapped"]
+
+# [phases.build]
+# cmds = ['yarn run build']
+
+# [start]
+# cmd = 'yarn run start'
+
